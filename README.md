@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **building Cash Tree**
 
-- 🌱 I’m currently learning **computer vision, natural language processing, and generative AI, with a focus on creative applications.**
+- 🌱 I’m currently learning **android app development with Kotlin.**
 
 - 👯 I’m looking to collaborate on **open source projects in Python and Golang**
 
-- 🤝 I’m looking for help with **exploring the intersection of AI and dance to innovate and enhance the art form. Looking for collaborators who share a passion for combining technology with creativity**
+- 🤝 I’m looking for help with **exploring the intersection of AI and dance to innovate and enhance the art form.**
 
 - 📫 How to reach me **meghavkumar26@gmail.com**
 
